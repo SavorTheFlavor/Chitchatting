@@ -1,0 +1,12 @@
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\bin\Debug\MyTCPServer.exe.config
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\obj\Debug\MyTCPServer.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\obj\Debug\MyTCPServer.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\bin\Debug\MyTCPServer.exe
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\bin\Debug\MyTCPServer.pdb
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\obj\Debug\MyTCPServer.exe
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\obj\Debug\MyTCPServer.pdb
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\obj\Debug\MyServer.MyTCPServerUI.resources
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\obj\Debug\MyServer.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\bin\Debug\CSkin.dll
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\bin\Debug\CSkin.xml
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPServer\obj\Debug\MyServer.ServerLogPanel.resources

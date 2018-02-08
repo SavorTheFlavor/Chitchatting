@@ -1,0 +1,15 @@
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\bin\Debug\MyTCPClient.exe.config
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\bin\Debug\MyTCPClient.exe
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\bin\Debug\MyTCPClient.pdb
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\bin\Debug\CSkin.dll
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\bin\Debug\CSkin.xml
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.Properties.Resources.resources
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.exe
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.pdb
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.LoginUI.resources
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.ClientUI.resources
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.MsgPanelSelf.resources
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.MsgPanelOthers.resources
+D:\Program Files (x86)\Visual Studio 2012\Projects\MyTCPServer\MyTCPClient\obj\Debug\MyTCPClient.OnlineGuyPanel.resources
